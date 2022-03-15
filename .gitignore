@@ -1,2 +1,6 @@
 data/
-output/
+output/csv/_tweet_text.csv
+output/figures/
+output/networks_gexf/
+output/pdf/
+output/pickles/
